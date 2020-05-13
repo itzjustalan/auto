@@ -1,0 +1,8 @@
+{
+  "name": "auto",
+  "languages": ["English", "Fench"],
+  "toggle_audio": true,
+  "default directory": "D:\\projects\\auto projects",
+  "on": ["on", "On", "ON", "true", "True", "TRUE", "yes", "yes", "YES", "elevate", "Elevate", "ELEVATE"],
+  "off": ["off", "Off", "OFF", "false", "False", "FLASE", "no", "No", "NO"]
+}
