@@ -1,2 +1,2 @@
 # auto
-Basic python structure for a command line utility
+Basic python structure for a windows command line utility
